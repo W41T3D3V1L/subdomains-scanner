@@ -37,8 +37,8 @@ A modern, neon-themed web application built with Next.js to discover subdomains 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd subneon-scanner
+    git clone https://github.com/W41T3D3V1L/subdomains-scanner.git
+    cd SubDomain Scanner
     ```
 
 2.  **Install dependencies:**
