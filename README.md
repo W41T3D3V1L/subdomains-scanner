@@ -1,6 +1,7 @@
 # SubDomain Scanner
 
-![image](https://github.com/user-attachments/assets/b8e4cb22-54e6-40ee-916d-d56794ab28d2)
+
+![Screenshot 2025-04-27 230223](https://github.com/user-attachments/assets/f4daeaff-169c-42cf-a622-c19ff28528d3)
 
 
 
